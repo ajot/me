@@ -1,9 +1,7 @@
 # Me
 
-![](https://github.com/ajot/me/blob/master/assets/amit.jpg)
-
-Amit is an Alexa Evangelist at Amazon. His role involves inspiring and helping developers build incredible voice experiences using Alexa - the voice service that powers groundbreaking Amazon devices like the Amazon Echo, Echo Dot, Echo Show, and more.
-
-Passionate about beautiful design, and elegant code. An ice cream craver, cricket fanatic, and a chai latte addict. By day you can find him at his desk cooking up beautiful Ruby, Python, or JavaScript. By night, he loves catching up on the re-runs of Seinfeld.
+Amit is an Alexa Evangelist at Amazon. His role involves inspiring and helping developers build incredible voice experiences using Alexa. By day you can find Amit at his desk cooking up beautiful Python, Ruby, or JavaScript. By night, when’s he not catching up on the re-runs of Seinfeld, he disappoints people with his jokes at the local standup comedy club in New York.
 
 **Twitter**: [@amit](https://twitter.com/amit)
+
+![](https://github.com/ajot/me/blob/master/assets/amit-2019.jpg)
