@@ -1,7 +1,7 @@
 # Me
 
-Amit is an Alexa Evangelist at Amazon. His role involves inspiring and helping developers build incredible voice experiences using Alexa. By day you can find Amit at his desk cooking up beautiful Python, Ruby, or JavaScript. By night, when’s he not catching up on the re-runs of Seinfeld, he disappoints people with his jokes at the local standup comedy club in New York.
+Hello! I am Amit, a Senior Developer Advocate at [Retool](https://retool.com). Prior to joining Retool, I spent five years at Amazon, helping developers build voice skills for Alexa. By day you can find me cooking up Retool apps to solve my everyday problems. By night, when I am not doing dad duties or cooking up code, I like catching up on the reruns of Seinfeld. Self-proclaimed Lego, and Instant Pot recipe nerd. 
 
-**Twitter**: [@amit](https://twitter.com/amit)
+You can reach me on Twitter at [@amit](https://twitter.com/amit).
 
 ![](https://github.com/ajot/me/blob/master/assets/amit-2019.jpg)
